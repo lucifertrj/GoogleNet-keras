@@ -1,6 +1,6 @@
 # MultiClass Classification Using GoogleNet
 
-<div>
+<div align="center">
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/531/557/a88.jpg">
 </div>
 
